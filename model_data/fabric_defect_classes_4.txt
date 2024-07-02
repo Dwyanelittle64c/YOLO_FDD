@@ -1,0 +1,4 @@
+hole
+line
+float
+stain
